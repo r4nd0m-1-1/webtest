@@ -1,0 +1,7 @@
+threads: 5
+user_agent: "WebTestScanner/1.0"
+timeout: 10
+output_format: json
+modules:
+  - sqli
+  - xss
